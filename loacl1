@@ -1,1 +1,3 @@
 local1
+
+remote: Support for password authentication was removed on August 13, 2021.
